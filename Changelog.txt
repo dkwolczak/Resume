@@ -1,0 +1,6 @@
+
+Change Log
+=========================================================
+
+	- 06/04/2019 - Added my details and photo
+		     - Added Padding to the bottom of div col-xs-3 (padding-bottom: 7px;) 
